@@ -1,0 +1,10 @@
+{
+    "name": "com.rouem.localizationsystemxlsx",
+    "version": "1.0.0",
+    "displayName": "Localization System (XLSX)",
+    "description": "Make a simple localization for your game, using the data inside of .xlsx files.",
+    "unity": "2017.1",
+    "author": {
+      "name": "Rouem"
+    }
+  }
